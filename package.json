@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/computerluca/Request-Header-Parser-Microservice---FCC#readme",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "ipware": "0.0.8"
   }
 }
