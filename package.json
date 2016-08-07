@@ -1,0 +1,22 @@
+{
+  "name": "whoami",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/computerluca/Request-Header-Parser-Microservice---FCC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/computerluca/Request-Header-Parser-Microservice---FCC/issues"
+  },
+  "homepage": "https://github.com/computerluca/Request-Header-Parser-Microservice---FCC#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
